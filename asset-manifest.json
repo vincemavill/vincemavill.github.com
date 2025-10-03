@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.4c5c7940.css",
-    "main.js": "/static/js/main.4918dd74.js",
+    "main.js": "/static/js/main.07be48f3.js",
     "static/js/787.ccde6fac.chunk.js": "/static/js/787.ccde6fac.chunk.js",
     "static/media/vincent_marc_villafuerte_2022_v4.pdf": "/static/media/vincent_marc_villafuerte_2022_v4.b6939c04e28f81efed90.pdf",
     "static/media/1017.png": "/static/media/1017.d4fe918cd6ef556df861.png",
+    "static/media/1019.png": "/static/media/1019.eecccb6d32a87c4149ed.png",
     "static/media/1016.png": "/static/media/1016.ba0659817e7128aab12e.png",
     "static/media/1018.png": "/static/media/1018.d87176527438a841ccc1.png",
     "static/media/A003.png": "/static/media/A003.e674de5b9ce45700c844.png",
+    "static/media/A008.png": "/static/media/A008.4da8a81e4b007fe64d08.png",
     "static/media/A005.png": "/static/media/A005.0cf32e5e88071c5dffa5.png",
     "static/media/A004.png": "/static/media/A004.dc61781e3c19a73a08a4.png",
     "static/media/1001.png": "/static/media/1001.c9ac14a22b0e0f5fddcb.png",
@@ -32,11 +34,11 @@
     "static/media/linkedin-icon-2.svg": "/static/media/linkedin-icon-2.32e20978a96ff60c1fdc5a8389e532ba.svg",
     "index.html": "/index.html",
     "main.4c5c7940.css.map": "/static/css/main.4c5c7940.css.map",
-    "main.4918dd74.js.map": "/static/js/main.4918dd74.js.map",
+    "main.07be48f3.js.map": "/static/js/main.07be48f3.js.map",
     "787.ccde6fac.chunk.js.map": "/static/js/787.ccde6fac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c5c7940.css",
-    "static/js/main.4918dd74.js"
+    "static/js/main.07be48f3.js"
   ]
 }
