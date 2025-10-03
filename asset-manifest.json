@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c5c7940.css",
+    "main.js": "/static/js/main.4918dd74.js",
+    "static/js/787.ccde6fac.chunk.js": "/static/js/787.ccde6fac.chunk.js",
+    "static/media/vincent_marc_villafuerte_2022_v4.pdf": "/static/media/vincent_marc_villafuerte_2022_v4.b6939c04e28f81efed90.pdf",
+    "static/media/1017.png": "/static/media/1017.d4fe918cd6ef556df861.png",
+    "static/media/1016.png": "/static/media/1016.ba0659817e7128aab12e.png",
+    "static/media/1018.png": "/static/media/1018.d87176527438a841ccc1.png",
+    "static/media/A003.png": "/static/media/A003.e674de5b9ce45700c844.png",
+    "static/media/A005.png": "/static/media/A005.0cf32e5e88071c5dffa5.png",
+    "static/media/A004.png": "/static/media/A004.dc61781e3c19a73a08a4.png",
+    "static/media/1001.png": "/static/media/1001.c9ac14a22b0e0f5fddcb.png",
+    "static/media/1006.png": "/static/media/1006.8191678ba361b4253eb3.png",
+    "static/media/1009.png": "/static/media/1009.9762e3b832d44daffd75.png",
+    "static/media/1002.png": "/static/media/1002.f75e2ab82e135f8df086.png",
+    "static/media/1014.png": "/static/media/1014.add73a1c25c4e9c327d0.png",
+    "static/media/1008.png": "/static/media/1008.32501d7e6ec82f15f450.png",
+    "static/media/1005.png": "/static/media/1005.85b195230e8a3d3ec0b8.png",
+    "static/media/1011.png": "/static/media/1011.bea1ffb221a3efecb307.png",
+    "static/media/1013.png": "/static/media/1013.e0c4c658c8e0d5eff42c.png",
+    "static/media/1010.png": "/static/media/1010.1b941e25db95218cba97.png",
+    "static/media/1007.png": "/static/media/1007.65dac2f2ca00bb5c4d63.png",
+    "static/media/A006.png": "/static/media/A006.9303eb251f8116feb142.png",
+    "static/media/1015.png": "/static/media/1015.26c13b5967f5266ed446.png",
+    "static/media/1003.png": "/static/media/1003.0dc8b8c1c3596fe79f41.png",
+    "static/media/A007.png": "/static/media/A007.ce10327817a6d7add06b.png",
+    "static/media/1012.png": "/static/media/1012.da45b86169ce0d7d4677.png",
+    "static/media/thatsme.png": "/static/media/thatsme.25ff9dd1214e2171c3bc.png",
+    "static/media/github-logo.png": "/static/media/github-logo.d0456b426c4a7844262e.png",
+    "static/media/logovince.svg": "/static/media/logovince.a8c722322c41dcfc319a482a4c9896e0.svg",
+    "static/media/linkedin-icon-2.svg": "/static/media/linkedin-icon-2.32e20978a96ff60c1fdc5a8389e532ba.svg",
+    "index.html": "/index.html",
+    "main.4c5c7940.css.map": "/static/css/main.4c5c7940.css.map",
+    "main.4918dd74.js.map": "/static/js/main.4918dd74.js.map",
+    "787.ccde6fac.chunk.js.map": "/static/js/787.ccde6fac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c5c7940.css",
+    "static/js/main.4918dd74.js"
+  ]
+}
