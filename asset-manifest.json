@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.4c5c7940.css",
-    "main.js": "/static/js/main.6e457c17.js",
+    "main.js": "/static/js/main.edaffcff.js",
     "static/js/787.ccde6fac.chunk.js": "/static/js/787.ccde6fac.chunk.js",
     "static/media/1017.png": "/static/media/1017.d4fe918cd6ef556df861.png",
-    "static/media/vincent_marc_villafuerte_2025_v1.pdf": "/static/media/vincent_marc_villafuerte_2025_v1.4269e2b85859d8ac227e.pdf",
+    "static/media/vincent_marc_villafuerte_2026_v1.pdf": "/static/media/vincent_marc_villafuerte_2026_v1.9c78604d4ba73745e246.pdf",
     "static/media/1019.png": "/static/media/1019.eecccb6d32a87c4149ed.png",
     "static/media/1016.png": "/static/media/1016.ba0659817e7128aab12e.png",
     "static/media/1018.png": "/static/media/1018.d87176527438a841ccc1.png",
@@ -21,6 +21,7 @@
     "static/media/1005.png": "/static/media/1005.85b195230e8a3d3ec0b8.png",
     "static/media/1011.png": "/static/media/1011.bea1ffb221a3efecb307.png",
     "static/media/1013.png": "/static/media/1013.e0c4c658c8e0d5eff42c.png",
+    "static/media/A009.png": "/static/media/A009.a797a80427ecb44426ce.png",
     "static/media/1010.png": "/static/media/1010.1b941e25db95218cba97.png",
     "static/media/1007.png": "/static/media/1007.65dac2f2ca00bb5c4d63.png",
     "static/media/A006.png": "/static/media/A006.9303eb251f8116feb142.png",
@@ -34,11 +35,11 @@
     "static/media/linkedin-icon-2.svg": "/static/media/linkedin-icon-2.32e20978a96ff60c1fdc5a8389e532ba.svg",
     "index.html": "/index.html",
     "main.4c5c7940.css.map": "/static/css/main.4c5c7940.css.map",
-    "main.6e457c17.js.map": "/static/js/main.6e457c17.js.map",
+    "main.edaffcff.js.map": "/static/js/main.edaffcff.js.map",
     "787.ccde6fac.chunk.js.map": "/static/js/787.ccde6fac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c5c7940.css",
-    "static/js/main.6e457c17.js"
+    "static/js/main.edaffcff.js"
   ]
 }
